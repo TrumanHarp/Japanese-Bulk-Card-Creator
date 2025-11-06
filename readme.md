@@ -30,4 +30,9 @@ Save the Card Format, enter your expressions, then submit.
 
 ### Sample Note Type and Card
 My personal note type and card is 
-<a href="https://github.com/TrumanHarp/Japanese-Bulk-Card-Creator/blob/main/Sample%20Note%20Type.apkg" download>available in this repository.</a>
+<a href="https://github.com/TrumanHarp/Japanese-Bulk-Card-Creator/raw/refs/heads/main/Sample%20Note%20Type.apkg" download>available in this repository.</a><br>
+Here is what it looks like:<br>
+<p align="left">
+  <img src="frontpreview.png" alt="Front Preview" width="30%" />
+  <img src="backpreview.png" alt="Back Preview" width="30%" />
+</p>

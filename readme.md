@@ -21,3 +21,9 @@ This addon automates creation of bulk Japanese phrase/vocab cards using a bundle
     <li>3rd Glossary Definition (If Available)</li>
     <li>Audio</li>
 </ul>
+
+### Usage
+You need a pre-existing deck and note type with fields.<br>
+In Anki, Press <b>Tools</b> then <b>Japanese Bulk Card Creator</b> <br>
+Select the Deck you want to create cards for, then press Card Format to map your fields.<br>
+Save the Card Format, enter your expressions, then submit.

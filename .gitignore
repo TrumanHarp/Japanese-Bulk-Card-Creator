@@ -11,3 +11,5 @@ __pycache__/
 util/JMDict_e
 util/JMDict_e.gz
 util/jmdict.xml
+
+*.ankiaddon

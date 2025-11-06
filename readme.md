@@ -27,3 +27,7 @@ You need a pre-existing deck and note type with fields.<br>
 In Anki, Press <b>Tools</b> then <b>Japanese Bulk Card Creator</b> <br>
 Select the Deck you want to create cards for, then press Card Format to map your fields.<br>
 Save the Card Format, enter your expressions, then submit.
+
+### Sample Note Type and Card
+My personal note type and card is 
+<a href="https://github.com/TrumanHarp/Japanese-Bulk-Card-Creator/blob/main/Sample%20Note%20Type.apkg" download>available in this repository.</a>
